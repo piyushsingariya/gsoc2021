@@ -1,3 +1,3 @@
 #### Contributions merged during the period
 
-https://github.com/meshery/meshery/pull/2928
+* meshery/meshery#2928
