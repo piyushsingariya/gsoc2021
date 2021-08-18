@@ -1,6 +1,10 @@
 # Google Summer of Code 2021
 
-## Organization: CNCF
+## Organization: CNCF with Layer5
+
+As a participant of Google Summer of Code 2021, I worked with Layer5 to work on Meshery, introducing many features and rebasing few things on the server-side. I helped with adding/enhancing few commands in mesheryctl that helps in managing Filters, Patterns, Performance Results and Profiles, Environment checking etc. I also setup Unit and Integration Testing for mesheryctl by testing the cobra commands with recording their expected behavior and output in multiple scnearios, stored in golden files. I worked with consolidating multiple handlers on the server-side and also changing them in the whole project.
+
+Here I have mentioned my goals and contributions!
 
 ### Goals: Meshery CLI
 - Adding a new command to meshery's cli tool, i.e. mesheryctl for performance profiles and result management
@@ -75,3 +79,8 @@
   * https://github.com/meshery/meshery/pull/3451
   * https://github.com/meshery/meshery/pull/3491
   * https://github.com/meshery/meshery/pull/3786
+
+## Summery
+
+Had a fun time working with the Layer5, as a student I found the best place to start my Open Source Journey. 
+Contact Me-  [LinkedIn](https://www.linkedin.com/in/piyushsingariya/) [Twitter](https://twitter.com/piyushsingariya)
