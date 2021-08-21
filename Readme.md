@@ -41,7 +41,7 @@ Here I have mentioned my goals and contributions!
   * https://github.com/meshery/meshery/pull/3489
 * `mesheryctl exp filter`
   * https://github.com/meshery/meshery/pull/3843
-  * https://github.com/meshery/meshery/pull/3857 (Not merged)
+  * https://github.com/meshery/meshery/pull/3857 
 * `Unit and Integration Testing`
   * https://github.com/meshery/meshery/pull/3137
   * https://github.com/meshery/meshery/pull/3288
