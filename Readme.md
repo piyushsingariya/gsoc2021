@@ -2,14 +2,14 @@
 
 ## Organization: CNCF with Layer5
 
-As a participant of Google Summer of Code 2021, I worked with Layer5 to work on Meshery, introducing many features and rebasing few things on the server-side. I helped with adding/enhancing few commands in mesheryctl that helps in managing Filters, Patterns, Performance Results and Profiles, Environment checking etc. I also setup Unit and Integration Testing for mesheryctl by testing the cobra commands with recording their expected behavior and output in multiple scnearios, stored in golden files. I worked with consolidating multiple handlers on the server-side and also changing them in the whole project.
+As a participant of Google Summer of Code 2021, I worked with Layer5 to work on Meshery, introducing many features and rebasing a few things on the server-side. I helped with adding/enhancing a few commands in mesheryctl that helps in managing Filters, Patterns, Performance Results and Profiles, Environment checking, etc. I also set up Unit and Integration Testing for mesheryctl by testing the cobra commands with recording their expected behavior and output in multiple scenarios, stored in golden files. I worked with consolidating multiple handlers on the server side and also changing them in the whole project.
 
 Here I have mentioned my goals and contributions!
 
 ### Goals: Meshery CLI
 - Adding a new command to meshery's cli tool, i.e. mesheryctl for performance profiles and result management
 - Introduction of Unit Testing and Integration testing for Cobra commands of cli tool, mesheryctl.
-- Introducing health-checks for environemt checking of pre/post-deployment of meshery server
+- Introducing health-checks for environment checking of pre/post-deployment of meshery server
 - Adding a new command to meshery's cli tool, i.e. mesheryctl for managing web-assembly filters
 
 ### Goals: Meshery Server
@@ -21,7 +21,7 @@ Here I have mentioned my goals and contributions!
 
 ### Goals: Others
 - Documentation on writing Unit and Integration Tests and Contributing to Meshery Server Documentation
-- Ci workflow for Swagger Documentaion and running Unit and Integration Tests with calculating Code-coverage with CodeCov
+- Ci workflow for Swagger Documentation and running Unit and Integration Tests with calculating Code-coverage with CodeCov
 
 
 ### Focus: Meshery CLI
@@ -67,7 +67,8 @@ Here I have mentioned my goals and contributions!
   * https://github.com/meshery/meshery/pull/3578
   * https://github.com/meshery/meshery/pull/3641
   * https://github.com/meshery/meshery/pull/3852
-  * https://github.com/meshery/meshery/pull/3872 (Not merged)
+  * https://github.com/meshery/meshery/pull/3872 
+  * https://github.com/meshery/meshery/pull/3924
 
 ### Other contributions
   * https://github.com/meshery/meshery/pull/3170
@@ -80,7 +81,15 @@ Here I have mentioned my goals and contributions!
   * https://github.com/meshery/meshery/pull/3491
   * https://github.com/meshery/meshery/pull/3786
 
-## Summery
+## Screenshots
 
-Had a fun time working with the Layer5, as a student I found the best place to start my Open Source Journey. 
+Reached 27% code-coverage in mesheryctl
+
+Screenshot included from Swagger Documentation of APIs
+
+## Summary
+
+Had a fun time working with Layer5, as a student I found the best place to start my Open Source Journey.
 Contact Me-  [LinkedIn](https://www.linkedin.com/in/piyushsingariya/) [Twitter](https://twitter.com/piyushsingariya)
+
+
