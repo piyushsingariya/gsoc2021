@@ -82,9 +82,10 @@ Here I have mentioned my goals and contributions!
   * https://github.com/meshery/meshery/pull/3786
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/50979887/130494404-0b60b939-c6b1-4746-970b-baf006b6b1af.png)
+Reached 27% code-coverage in mesheryctl commands
 
-Reached 27% code-coverage in mesheryctl
-
+![image](https://user-images.githubusercontent.com/50979887/130494449-e8afa0d9-b6ea-4a47-9509-dd32f54a21ab.png)
 Screenshot included from Swagger Documentation of APIs
 
 ## Summary
