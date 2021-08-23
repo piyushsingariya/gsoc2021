@@ -84,7 +84,7 @@ Here I have mentioned my goals and contributions!
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/50979887/130494555-e1cee00a-c3d6-4a12-a0e2-06bf6d3d344c.png)
 
-Reached 27% code-coverage in mesheryctl commands
+Reached 30% code-coverage in mesheryctl commands
 
 ![image](https://user-images.githubusercontent.com/50979887/130495186-f5bfcc27-c230-4c73-a598-8a8d5342ab7e.png)
 ![image](https://user-images.githubusercontent.com/50979887/130495212-076766cb-8d86-48b8-8a72-a7347d54f87a.png)
