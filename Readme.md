@@ -82,11 +82,14 @@ Here I have mentioned my goals and contributions!
   * https://github.com/meshery/meshery/pull/3786
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/50979887/130494404-0b60b939-c6b1-4746-970b-baf006b6b1af.png)
+![image](https://user-images.githubusercontent.com/50979887/130494555-e1cee00a-c3d6-4a12-a0e2-06bf6d3d344c.png)
+
 Reached 27% code-coverage in mesheryctl commands
 
-![image](https://user-images.githubusercontent.com/50979887/130494449-e8afa0d9-b6ea-4a47-9509-dd32f54a21ab.png)
-Screenshot included from Swagger Documentation of APIs
+![image](https://user-images.githubusercontent.com/50979887/130495186-f5bfcc27-c230-4c73-a598-8a8d5342ab7e.png)
+![image](https://user-images.githubusercontent.com/50979887/130495212-076766cb-8d86-48b8-8a72-a7347d54f87a.png)
+
+Screenshots included from Swagger Documentation of APIs
 
 ## Summary
 
